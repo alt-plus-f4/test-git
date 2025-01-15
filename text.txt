@@ -1,1 +1,1 @@
-This is the text in the feature
+Text in hotfix#2
